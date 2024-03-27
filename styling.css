@@ -1,0 +1,13 @@
+#obj {
+  background-color: aqua;
+  border: solid 3px black;
+  position: absolute;
+  padding: 30px 30px 30px 30px;
+  transition: 0.5s background-color, 0.5s padding, 0.5s top, 0.5s left, 0.5s border-radius;
+  top: 50px;
+  left: 400px;
+}
+
+input {
+  margin-left: 25px;
+}
